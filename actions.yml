@@ -1,0 +1,5 @@
+description: "Run https://github.com/ComunidadAylas/PackSquash on GitHub Actions"
+runs:
+  using: "docker"
+  image: "Dockerfile"
+name: actions-PackSquash
